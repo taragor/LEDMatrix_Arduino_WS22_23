@@ -21,4 +21,4 @@ Readme file.
 ### zeitintensiv
 - über webserver steuern (z.B. Pico?)
 - Bilder anzeigen
-- - Bilder in bitmap konvertiren
+  - Bilder in bitmap konvertiren
